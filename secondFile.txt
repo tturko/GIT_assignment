@@ -1,3 +1,7 @@
 This is the initial contents
+<<<<<<< HEAD
 of the second file that comprises UserB
+=======
+of the second file that comprises UserA
+>>>>>>> f846103afb855f0bce5577b7e8e641f89833b6f2
 our most excellent project.
