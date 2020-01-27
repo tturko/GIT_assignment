@@ -1,3 +1,5 @@
 # GIT_assignment
 
-This is for Lab 1 in COSC 381
+This is for the GIT Tutorial Assignment.
+
+COSC 381
